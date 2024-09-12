@@ -45,3 +45,8 @@ Thumbs.db
 # Git
 .gitignore
 /.git
+
+# Others
+
+/.vscode
+.editorconfig
